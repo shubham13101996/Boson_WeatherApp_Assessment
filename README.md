@@ -1,3 +1,37 @@
+## How to run file
+
+1.Download zip file from '<>Code' dropdown option.<br/>
+2.Extract zip file in your sytem.<br/>
+3.Open file in VS code.<br/>
+4.Open terminal in Vs code.<br/>
+5.Run command- npm i.<br/>
+6.Run command- npm start.<br/>
+
+OR<br/>
+
+You Can Clone It Using The Link:- https://github.com/shubham13101996/Boson_WeatherApp_Assessment.git
+
+## Library Used
+
+1.Axios: Axios is a promised-based HTTP client for JavaScript. It has the ability to make HTTP requests from the browser and handle the transformation of request and response data.<br/>
+
+To install Axios :- npm i axios <br/>
+
+Features:
+1.Make XMLHttpRequests from the browser.<br/>
+2.Make http requests from node.js<br/>
+3.Supports the Promise API.<br/>
+4.Intercept request and response.<br/>
+5.Transform request and response data.<br/>
+6.Cancel requests.<br/>
+7.Automatic transforms for JSON data.<br/>
+8.🆕 Automatic data object serialization to multipart/form-data and x-www-form-urlencoded body encodings.<br/>
+9.Client side support for protecting against XSRF.<br/>
+
+2.Dayjs: Day.js is a minimalist JavaScript library that parses, validates, manipulates, and displays dates and times for modern browsers.<br/>
+
+To install dayjs :- npm i dayjs
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
