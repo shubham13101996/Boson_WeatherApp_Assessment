@@ -32,6 +32,8 @@ Features:
 
 To install dayjs :- npm i dayjs
 
+![chrome_screenshot_localhost (4)](https://user-images.githubusercontent.com/121822895/229468102-4434bc3b-ac71-441e-be01-2371200bc3f9.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
